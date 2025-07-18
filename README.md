@@ -10,7 +10,6 @@ Organize Store is a web-based inventory management system built with Django. Thi
 - **Stock Tracking:** Monitor inventory levels in real time.
 - **User Authentication:** Secure login and registration system.
 - **Intuitive Dashboard:** Easy-to-navigate dashboard for a clear overview of your inventory.
-- **Search and Filter:** Quickly find products with search and filter options.
 - **Responsive Design:** Works well on desktops and mobile devices.
 
 ## Technologies Used
@@ -39,8 +38,7 @@ Organize Store is a web-based inventory management system built with Django. Thi
    ```bash
    python manage.py runserver
    ```
-5. **Access the app:**  
-   Open `http://127.0.0.1:8000/` in your browser.
+
 
 ## Contributing
 
